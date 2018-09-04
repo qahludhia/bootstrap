@@ -1,0 +1,26 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgba (0, 0, 0, 10);
+    background-image:  url(Panorama-Calgary-Core.jpg);
+    background-size: cover;
+    color: antiquewhite;
+}
+.card {
+   text-align: center;
+    margin-left: 40%;
+    margin-bottom: -10px;
+    padding: 10px;
+}
+
+.icon {
+    font-size: 100px;
+    text-align: center;
+}
+
+.icon a {
+    color: cadetblue;
+    text-decoration: none;
+}
+.paragraph {
+    text-align: center;
+}
