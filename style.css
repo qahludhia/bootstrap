@@ -1,17 +1,47 @@
 .jumbotron {
     text-align: center;
     background-color: rgba (0, 0, 0, 10);
-    background-image:  url(Panorama-Calgary-Core.jpg);
+    background-image:  url(Image/28am9fs.jpg);
     background-size: cover;
-    color: antiquewhite;
-}
-.card {
-   text-align: center;
-    margin-left: 40%;
-    margin-bottom: -10px;
-    padding: 10px;
+    color: white;
 }
 
+.daftar {
+    text-align: center;
+    
+}
+
+.Warna-biru {
+    background-color: #0bc72a;
+    text-align: center;
+    color: white;
+    text-decoration: 
+}
+
+.Warna-putih {
+    text-align: center;
+    
+}
+
+.box-shadow{
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border: 1px solid #e7e7e7;
+    
+}
+.judul {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
 .icon {
     font-size: 100px;
     text-align: center;
@@ -23,4 +53,58 @@
 }
 .paragraph {
     text-align: center;
+}
+.collapse {
+    margin-left: 695px;
+    word-spacing: 1px;
+}
+
+.mondok1 {
+    text-align: center;
+}
+.mondok2 {
+    text-align: center;
+}
+.lihat {
+    margin-right: 50%;
+}
+
+.kontak {
+    text-align: center;
+}
+.learnmore {
+    border-color: green;
+    background-color: green;
+    
+}
+.learnmore:hover {
+    background-color: green;
+    border-color: green;
+}
+.list {
+    margin-left: -7%;
+}
+
+.deskripsi {
+    text-align: center;
+}
+
+.klikdaftar {
+    align-content: center;
+}
+
+.kaji {
+        display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: 375px
+        
+}
+.card {
+    transition: box-shadow .1s;
+    
+}
+
+.card:hover {
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 4);
 }
